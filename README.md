@@ -33,3 +33,9 @@ and domain
   Post-depoyment config (yellow warning sign)
     Add a new forest - - mydomain.com
     Set a password
+
+#### 4.2.1 Dedicated admin account
+
+Windows Administrative Tools > Active Directory Users and Computers
+Create Organizational Unit (name it)
+In that group create a new user (naming convention) and make him member of admin group(Domain Names)
